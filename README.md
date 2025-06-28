@@ -1,5 +1,9 @@
-# Code Style Guide
+# Windsurf Style Guide
 # Language: C#
+
+## Overview
+This style guide provides a set of conventions and best practices for writing clean, readable, and maintainable C# code. It is intended for developers working on the Windsurf project, and covers coding conventions, naming standards, and other best practices for C# development.
+
 ## Variable Naming Conventions
 
 * Use explicit type names for variable declarations.
