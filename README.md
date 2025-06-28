@@ -1,5 +1,5 @@
 # Code Style Guide
-
+# Language: C#
 ## Variable Naming Conventions
 
 * Use explicit type names for variable declarations.
