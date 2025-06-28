@@ -8,7 +8,8 @@ SomeClass variable = new();
 * For multi-line initialization, use the following format:
 SomeClass variable; variable = new SomeClass();
 
-* Use camelCase for variable names.
+* use _camelCase for private field/property names
+* use PascalCase for public or protected field/property names
 * Avoid using abbreviations or acronyms unless they are widely recognized.
 
 ## Code Formatting
