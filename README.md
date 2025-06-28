@@ -9,7 +9,7 @@ This style guide provides a set of conventions and best practices for writing cl
 * For single-line initialization, use the following format:
 SomeClass variable = new();
 * For multi-line initialization, use the following format:
-SomeClass variable; variable = new();
+SomeClass variable; variable = new SomeClass();
 * use _camelCase for private field/property names
 * use PascalCase for public or protected field/property names
 * Avoid using abbreviations or acronyms unless they are widely recognized.
