@@ -4,9 +4,10 @@
 
 * Use explicit type names for variable declarations.
 * For single-line initialization, use the following format:
-  ```csharp
+  ``csharp
 SomeClass variable = new();
 * For multi-line initialization, use the following format:
+  ``csharp
 SomeClass variable; variable = new SomeClass();
 
 * Use camelCase for variable names.
