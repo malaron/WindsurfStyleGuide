@@ -22,6 +22,11 @@ SomeClass variable; variable = new SomeClass();
 * Use blank lines to separate logical sections of code.
 * Use curly braces to enclose code blocks, even if they are single-line.
 
+## Code Organization
+* Method Length: Methods should be concise and focused on a single task. Aim for a maximum of 20-30 lines of code per method.
+* Break down long methods: If a method is too long or complex, break it down into smaller, more manageable pieces. This makes the code easier to read and maintain.
+* Single Responsibility Principle: Each method should have a single responsibility and should not be responsible for multiple, unrelated tasks.
+
 ## Class and Method Naming Conventions
 
 * Use PascalCase for class and method names.
