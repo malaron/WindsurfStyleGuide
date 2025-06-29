@@ -13,6 +13,7 @@ SomeClass variable; variable = new SomeClass();
 * use _camelCase for private field/property names
 * use PascalCase for public or protected field/property names
 * Avoid using abbreviations or acronyms unless they are widely recognized.
+* When suggesting a viariable for a DateTime use DateCreated or DateUpdated for creation/update dates. Using the correct capitalization based on public/private/method variable.
 
 ## Code Formatting
 * Use 4 spaces for indentation.
